@@ -1,7 +1,7 @@
 # ChronoCatalog Publisher
 
 Publish photos and videos from Lightroom Classic into a plain folder
-tree — part of the [chronocatalog](https://github.com/chronocatalog/chronocatalog)
+tree — part of the [ChronoCatalog](https://github.com/chronocatalog/chronocatalog)
 toolset.
 
 Point a publish service at a folder and pick a folder layout:
